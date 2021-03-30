@@ -1,14 +1,16 @@
 import './App.css';
 import Header from './components/Header'
-//import Body from './components/Body'
+import Addquestion from './components/Addquestion'
 import Signup from './components/Signup'
+import Login from './components/Login'
 
 function App() {
   return (
     <div>
       <Header />
-      {/* <Body /> */}
-      <Signup />
+      <Addquestion />
+      {/* <Signup /> */}
+      {/* <Login /> */}
     </div>
   );
 }

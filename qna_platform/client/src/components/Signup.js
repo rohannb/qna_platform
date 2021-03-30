@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 
 class Signup extends Component {
 
-    // signup(){
-    //     $.post()
-    // }
-
+    
     render() {
         return (
             <div>
